@@ -1,8 +1,4 @@
-# GoPiGo Robots by Dexter Industries
-Various Python code projects using the GoPiGo.
+# Robots
+Python code for various robotics projects.
 
-Most projects are written in Python2, unless otherwise noted.
-
-Questions or comments? Email darrell [at] roanokehobby [dot] net
-
-Thanks for visiting!
+See the README file in each directory for details.
