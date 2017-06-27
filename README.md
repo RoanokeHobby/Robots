@@ -1,6 +1,6 @@
 ## Welcome to the Roanoke Hobby Robots GitHub page 
 
-Yep, not much to see here yet. I'm working on it!
+Nope, not much to see here yet. I'm working on it!
 
 ### This Page Uses Markdown
 
