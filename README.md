@@ -1,4 +1,4 @@
-## Welcome to the Roanoke Hobby Robots GitHub page 
+## Welcome to the Roanoke Hobby Robots page 
 
 Nope, not much to see here yet. I'm working on it!
 
