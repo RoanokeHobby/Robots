@@ -1,6 +1,6 @@
-## Welcome to Roanoke Hobby Robots GitHub page 
+## Welcome to the Roanoke Hobby Robots GitHub page 
 
-
+Yep, not much to see here yet. I'm working on it!
 
 ### This Page Uses Markdown
 
@@ -24,7 +24,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details, see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details, see the documentation for [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Contact
 
