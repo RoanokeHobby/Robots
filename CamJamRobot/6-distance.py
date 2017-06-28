@@ -1,5 +1,7 @@
 # CamJam EduKit 3 - Robotics
 # Worksheet 6 – Measuring Distance
+# Copyright (c) 2016 CamJam-EduKit
+# The MIT License (MIT)
 
 import RPi.GPIO as GPIO # Import the GPIO Library
 import time # Import the Time library

@@ -1,5 +1,10 @@
+# Date: 3/23/2017
+# Modified by: Darrell Little - Roanoke Hobby
+# Code based on the
 # CamJam EduKit 3 - Robotics
 # Worksheet 9 – Obstacle Avoidance
+# Copyright (c) 2016 CamJam-EduKit
+# The MIT License (MIT)
 
 import RPi.GPIO as GPIO # Import the GPIO Library
 import time # Import the Time library

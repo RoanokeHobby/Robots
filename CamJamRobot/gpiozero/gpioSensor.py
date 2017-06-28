@@ -1,3 +1,9 @@
+# gpioSensor.py
+# Prototype algorithm for accessing the Distance Sensor using GPIO Zero
+# Date: 3/23/2017
+# Author: Darrell Little - Roanoke Hobby
+# GNU General Public License v3.0 (GPL-3.0)
+
 from gpiozero import DistanceSensor
 from time import sleep
 
