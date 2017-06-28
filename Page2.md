@@ -4,4 +4,4 @@
 
 Woohoo! This page will contain posts related to the **GoPiGo** robot kit by [Dexter Industries](https://www.dexterindustries.com/).
 
-Unless otherwise noted, code for the **GoPiGo** will be in Python 2. Opions expressed here are my own and not associated with Dexter Industries.
+Unless otherwise noted, code for the **GoPiGo** will be in Python 2. Opinions expressed here are my own and not associated with Dexter Industries.
