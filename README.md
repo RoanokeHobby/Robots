@@ -13,4 +13,4 @@ For more details, see the documentation for [GitHub Flavored Markdown](https://g
 
 Have a comment or question about one of the projects published here? Contact darrell [at] roanokehobby [dot] net
 
-Proudly hosted on **GitHub** :octocat:
+Proudly hosted on **GitHub** ![octocat_small](https://user-images.githubusercontent.com/16419894/27620843-839a2fa6-5b9a-11e7-9ebc-76a8e713b7f7.png)
