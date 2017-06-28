@@ -6,42 +6,7 @@
 
 And so it begins! First batch of code uploaded this week are two different ways to 
 program a semi-autonomous CamJam Robot using the ultrasonic distance sensor.
-
-Started with the CamJam code for using the distance sensor.
-Next, I took a dive into using GPIO Zero to accomplish the same goal.
-
-Experimenting with the sensor, right away you'll see there is a lot of stuff built in:
-```python
-from gpiozero import DistanceSensor
-from time import sleep
-```
-Then instantiate your DistanceSensor object and begin taking measurements:
-```python
-sensor = DistanceSensor(echo=18, trigger=17, threshold_distance=0.15, max_distance=1)
-
-def getDistance():
-        d = round((sensor.distance * 100),1)
-        return d
-
-minDistance = 15
-```
-Put it all together inside of a Try statement:
-```python
-try:
-        while True:
-                distance = getDistance()
-                if distance > minDistance:
-                        print('Distance to nearest object is', distance, 'cm. Forward!')
-                else:
-                        print('Object detected at', distance, 'cm. Reverse!')
-                sleep(2)
-
-except KeyboardInterrupt:
-        print('\n')
-        print('Stopping program')
-```
-Tada! You're well on your way to avoiding objects using the ultrasonic sensor! 
-Next time I'll go into a little more detail putting this together with controlling the motors.
+Head on over to the CamJam EduKit 3 page for more details!
 
 * * *
 ### This Page Uses Markdown
