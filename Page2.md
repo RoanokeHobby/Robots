@@ -1,4 +1,4 @@
-### This is Page Two
+### Welcome to Page Two
 
 [Home](README.md) | **GoPiGo** | [CamJam EduKit 3](Page3.md)
 
