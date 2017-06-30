@@ -1,5 +1,5 @@
 # Robots
-Python code for various robotics projects.
+Python code for various robotic projects.
 
 See the README file in each directory for details.
 
