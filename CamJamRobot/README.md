@@ -5,7 +5,7 @@ Python code for the CamJam Robotics kit is usually in Python3.
 Variations of the standard code presented in EduKit tutorials.
 
 Code based on the [CamJam EduKit 3 - Robotics](https://camjam.me/?page_id=1035)
-Worksheet 6 - Distance
+Worksheet 6 - Distance and
 Worksheet 9 – Obstacle Avoidance
 Copyright (c) 2016 CamJam-EduKit The MIT License (MIT)
 
